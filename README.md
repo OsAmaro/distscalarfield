@@ -9,4 +9,4 @@ The numerical integration approach borrows from the Density of States concept in
 The sampling approach consists on generating random coordinates of the particles, calculating the local field values for each of these, and build a histogram from it.
 
 References:
-[1] Amaro O., Vranic M., "Optimal laser focusing for positron production in laser-electron scattering" pre-print https://arxiv.org/abs/2106.01877
+[1] Amaro O., Vranic M., "Optimal laser focusing for positron production in laser-electron scattering" pre-print https://arxiv.org/abs/2106.01877 , journal https://iopscience.iop.org/article/10.1088/1367-2630/ac2e83
