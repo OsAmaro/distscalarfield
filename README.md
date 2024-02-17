@@ -1,14 +1,19 @@
 Optimal laser focusing for positron production in laser–electron scattering
 =============================================================================================================================
 
+
+
+<a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac2e83" style='vertical-align:middle; display:inline;'><img
+							src="https://img.shields.io/badge/NJP-OptimalFocusing-blue.svg" class="plain" style="height:25px;" /></a>
 <a href="https://arxiv.org/abs/2106.01877" style='vertical-align:middle; display:inline;'><img
 							src="https://img.shields.io/badge/plasm--ph-arXiv%3A2106.01877-B31B1B.svg" class="plain" style="height:25px;" /></a>
 
-Paper in New Journal of Physics: https://iopscience.iop.org/article/10.1088/1367-2630/ac2e83
 
 Authors:  Óscar Amaro and Marija Vranic
 
 Abstract: _Laser–electron beam collisions that aim to generate electron–positron pairs require laser intensities I ≳ 1021 W cm−2, which can be obtained by focusing a 1-PW optical laser to a spot smaller than 10 μm. Spatial synchronization is a challenge because of the Poynting instability that can be a concern both for the interacting electron beam (if laser-generated) and the scattering laser. One strategy to overcome this problem is to use an electron beam coming from an accelerator (e.g., the planned E-320 experiment at FACET-II). Even using a stable accelerator beam, the plane wave approximation is too simplistic to describe the laser–electron scattering. This work extends analytical scaling laws for pair production, previously derived for the case of a plane wave and a short electron beam. We consider a focused laser beam colliding with electron beams of different shapes and sizes. The results take the spatial and temporal synchronization of the interaction into account, can be extended to arbitrary beam shapes, and prescribe the optimization strategies for near-future experiments._
+
+Paper in New Journal of Physics: https://iopscience.iop.org/article/10.1088/1367-2630/ac2e83
 
 ### Particle distribution in scalar field
 
