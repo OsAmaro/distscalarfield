@@ -27,3 +27,12 @@ The sampling approach consists on generating random coordinates of the particles
 
 References:
 [1] Amaro O., Vranic M., "Optimal laser focusing for positron production in laser-electron scattering" pre-print https://arxiv.org/abs/2106.01877 , journal https://iopscience.iop.org/article/10.1088/1367-2630/ac2e83
+
+
+Related repositories
+----------------------
+- Blackburn et al 2017 PRA https://github.com/RePlasma/PhysRevA_96_022128
+- Vranic et al 2019 PoP https://github.com/RePlasma/1.5090992
+- A Mercuri-Baron et al 2021 NJP https://github.com/RePlasma/New_J._Phys._23_085006
+- Golub et al 2022 PRD https://github.com/RePlasma/PhysRevD.105.116016
+- Amaro et al 2024 PPCF https://github.com/OsAmaro/QScatter
