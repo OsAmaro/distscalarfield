@@ -3,10 +3,10 @@ Optimal laser focusing for positron production in laser–electron scattering
 
 
 
-<a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac2e83" style='vertical-align:middle; display:inline;'><img
-							src="https://img.shields.io/badge/NJP-OptimalFocusing-blue.svg" class="plain" style="height:25px;" /></a>
 <a href="https://arxiv.org/abs/2106.01877" style='vertical-align:middle; display:inline;'><img
 							src="https://img.shields.io/badge/plasm--ph-arXiv%3A2106.01877-B31B1B.svg" class="plain" style="height:25px;" /></a>
+<a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac2e83" style='vertical-align:middle; display:inline;'><img
+							src="https://img.shields.io/badge/NJP-OptimalFocusing-lightblue.svg" class="plain" style="height:25px;" /></a>
 
 
 Authors:  Óscar Amaro and Marija Vranic
